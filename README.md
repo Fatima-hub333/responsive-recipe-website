@@ -1,12 +1,12 @@
-![](https://img.shields.io/badge/GoogleClone-blueviolet)
+![](https://img.shields.io/badge/RecipeWebsite-blueviolet)
 
-# Google_clone
-It's static google clone built with HTML, CSS
+# Recipe- Website
+It's a recipe website developed with media queries, HTML5, CSS.
 
-![screenshot](Google_Clone.png)
+![screenshot](img/preview-recipe.png)
 
 ## [LiveDemo] 
-(https://zesty-smakager-1f2b9d.netlify.app)
+(https://fluffy-sable-e9e367.netlify.app)
 
 ## Built With
 
@@ -24,10 +24,10 @@ Basic knowledge of HTML, CSS.
 ### Setup
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-[Download the ZIP from this location](https://github.com/Fatima-hub333/Google_clone/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/Fatima-hub333/responsive-recipe-website/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-git clone https://github.com/Fatima-hub333/Google_clone.git
+git clone https://github.com/Fatima-hub333/responsive-recipe-website.git
 ```
 
 - Once the files are on your machine, open the _Portfolio_ folder in [Visual Studio Code](https://code.visualstudio.com/).
@@ -54,7 +54,7 @@ The following tools help make easier to work with sample code.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Fatima-hub333/Google_clone/issues).
+Feel free to check the [issues page](https://github.com/Fatima-hub333/responsive-recipe-website/issues).
 
 ## Show your support
 
